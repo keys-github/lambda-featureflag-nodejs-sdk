@@ -1,6 +1,6 @@
 {
   "name": "local-evaluation",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "description": "starts local evaluation amplitudes server",
   "main": "index.js",
   "scripts": {
